@@ -1,0 +1,71 @@
+2019-04-08 16:24:37 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-08 16:24:37 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-08 16:24:37 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-08 16:24:41 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-08 16:24:43 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-08 16:24:43 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-08 16:24:43 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-08 16:24:43 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-09 15:04:48 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-09 15:04:48 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-09 15:04:48 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-09 15:04:53 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-09 15:04:55 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-09 15:04:55 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-09 15:04:55 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-09 15:04:55 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-09 16:54:28 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-09 16:54:28 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-09 16:54:29 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-09 16:54:34 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-09 16:54:36 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-09 16:54:36 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-09 16:54:36 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-09 16:54:36 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-10 12:15:33 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-10 12:15:33 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-10 12:15:34 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-10 12:15:39 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-10 12:15:41 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-10 12:15:41 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-10 12:15:41 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-10 12:15:41 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-10 12:16:02 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-10 12:16:02 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-10 12:16:02 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-10 12:16:06 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-10 12:16:06 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-10 12:16:06 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-10 12:16:06 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-10 12:25:35 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-10 12:25:35 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-10 12:25:36 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-10 12:25:40 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-10 12:25:42 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-10 12:25:42 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-10 12:25:42 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-10 12:25:42 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-10 16:45:34 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-10 16:45:34 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-10 16:45:35 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-10 16:45:40 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-10 16:45:41 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-10 16:45:41 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-10 16:45:41 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-10 16:45:41 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-10 16:55:28 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-10 16:55:28 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-10 16:55:29 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-10 16:55:33 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-10 16:55:34 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-10 16:55:34 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-10 16:55:34 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-10 16:55:34 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
+2019-04-10 17:06:27 [main] INFO  getdata_from_google_map:22 - getting all namesavaliable in result
+2019-04-10 17:06:27 [main] INFO  getdata_from_google_map:23 - providing base url
+2019-04-10 17:06:28 [main] INFO  getdata_from_google_map:26 - providing paramertrs 
+2019-04-10 17:06:33 [main] INFO  getdata_from_google_map:53 - getting size of aaraty20
+2019-04-10 17:06:34 [main] INFO  getdata_from_google_map:17 - getdata from google map
+2019-04-10 17:06:34 [main] INFO  getdata_from_google_map:18 - hitting to url 
+2019-04-10 17:06:34 [main] INFO  getdata_from_google_map:20 - getting response
+2019-04-10 17:06:34 [main] INFO  getdata_from_google_map:22 - getting sttaus code200
